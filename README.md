@@ -4,7 +4,7 @@
 
 HUD для CS 1.6 Steam Legacy. Windows x86, OpenGL. Интерфейс на русском и английском.
 
-[Скачать готовый HUD](https://github.com/fr3cy/BALONCUAGA/releases/latest/download/BALONCUAGA_v1_FULL.zip) · [Исходники](./source)
+[Скачать готовый HUD](https://github.com/fr3cy/baloncuaga-hud-cs1.6/releases/latest/download/BALONCUAGA_v1_FULL.zip) · [Исходники](./source)
 
 ## Функции
 
