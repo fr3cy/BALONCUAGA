@@ -1,0 +1,21 @@
+# Build output
+.build/
+*.o
+*.obj
+*.a
+*.pdb
+*.dmp
+*.log
+*.asi
+*.dll
+*.exe
+*.zip
+# Personal runtime files
+/CS16Customizer.ini
+/CS16Customizer_chat.tsv
+/BALONCUAGA.lic
+/Activation.exe
+/device.txt
+/baloncuaga_configs/
+/game/
+/backups/
